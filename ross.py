@@ -1,3 +1,3 @@
-how_many = 700
+how_many_times = 700
 
-print "ross"*how_many
+print "ross"*how_many_times
