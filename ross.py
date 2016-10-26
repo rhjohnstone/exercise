@@ -1,3 +1,3 @@
-how_many = 700
+the_how_many = 700
 
-print "ross"*how_many
+print "ross"*the_how_many
