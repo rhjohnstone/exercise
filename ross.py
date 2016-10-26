@@ -1,1 +1,3 @@
-print "ross"*700
+how_many = 700
+
+print "ross"*how_many
